@@ -79,6 +79,3 @@ capybara-*html
 #rvm
 .rvmrc
 .rvmrc.*
-
-#stupid gems being installed in sudo file since the first accidental bundle install sudo
-.sudo
